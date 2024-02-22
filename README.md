@@ -49,5 +49,18 @@ Spain*
 
 **Abstract**: Blablabla
 
-**Funding**: Projects PID2019-104268GB-C21 and PID2019-104268GB-C22 by MCIN / AEI / 10.13039 / 501100011033.
+
 <hr>
+
+**Funding**: Projects PID2019-104268GB-C21 and PID2019-104268GB-C22 by MCIN / AEI / 10.13039 / 501100011033.
+
+<table class="tfo-notebook-buttons" align="left">
+  <td>
+      <img src="https://github.com/dmaluenda/resources/raw/master/logo_gobierno.png" width="130"/>
+  </td>
+  <td>
+  </td>
+  <td>
+      <img src="https://github.com/dmaluenda/resources/raw/master/logo_aei.svg"  width="100"/>
+  </td>
+</table>
